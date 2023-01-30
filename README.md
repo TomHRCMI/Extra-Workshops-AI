@@ -1,4 +1,5 @@
-# mijneerstekeer
+# Extra Workshops AI
+
 Some basic Git commands are:
 ```
 git status
